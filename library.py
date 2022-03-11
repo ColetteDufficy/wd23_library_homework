@@ -24,7 +24,7 @@ library = {
     ]
 }
 
-# TODO - Print welcome statement including library name
+# TODO - Print welcome statement including library namee
 
 option = ""
 while option != "q":
